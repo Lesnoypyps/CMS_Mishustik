@@ -1,2 +1,2 @@
 User-agent: *
-Disallow:auth.html
+Disallow:/auth.html
